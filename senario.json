@@ -1,0 +1,12 @@
+        {
+                "station type": "Liquid H2 station",
+                "vehicle service pressure": 350,
+                "station size": 212,
+                "hydrogen source": "Tube-trailer supply",
+                "dispensing option": "cascade compressor",
+                "compressor stage": 5,
+                "vehicle Lingering time": 10,
+                "utilization rate": 0.7,
+                "total vehicle fill time": 3,
+                "max. dispensed amount per vehicle": 3.5
+        }

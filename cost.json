@@ -1,0 +1,44 @@
+{
+    "refrigeration equipment":
+    {"price":140000,
+    "factor_installation":1.3},
+
+    "booster compressor":
+    {"price":6000,
+    "factor_installation":1.3},
+
+    "compressor":
+    {"price":40528,
+    "factor_installation":1.3},
+
+    "cascade":
+    {"price":1200,
+    "factor_installation":1.3},
+
+    "dispenser":
+    {"price":65000,
+    "factor_installation":1.3},
+
+    "low-pressure storage for hourly surge":
+    {"price":850,
+    "factor_installation":1.3},
+
+    "cryogenic tank":
+    {"price":991.89,
+    "factor_installation":1.3},
+
+    "pump":
+    {"price":650000,
+    "factor_installation":1.3},
+
+    "evaporator":
+    {"fix price":15000,
+     "var price":1000,
+    "factor_installation":1.3},
+
+    "H2":
+    {"price":9.5},
+
+    "electric":
+    {"price":0.1509}
+}
